@@ -1,0 +1,29 @@
+.victory 
+    {
+        background-position: left top;
+        background-size: cover;
+        background-image: url('https://img.lght.pics/2msg.jpg');
+        width: 100vw; 
+        height: 100vh;
+   }
+
+#house-banner {
+    height: 35vh;
+    margin-left: 40vw;
+    margin-top: 10vh;
+    
+   }
+
+#winner-avatar {
+    height: 30vh;
+    margin-left: 40vw;
+    
+}
+
+
+h1 {
+    color: wheat;
+    font-size: 50px;
+    margin-left: 33vw;
+    margin-bottom: 5vh;
+}

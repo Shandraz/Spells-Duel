@@ -1,0 +1,15 @@
+.Menusplay{
+  position: fixed;
+  margin: 305px auto;
+  background-color: #444242;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 860px;
+
+
+}

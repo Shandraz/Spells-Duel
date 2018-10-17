@@ -1,0 +1,43 @@
+.Gride {
+  background-image: url(https://www.realite-virtuelle.com/wp-content/uploads/2017/12/harry-potter-fans-wizards-unite-750x434.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  height: 300px;
+  color: red;
+  position: relative;
+  width: 900px;
+  overflow: hidden;
+
+}
+
+.ButtonMoove {
+  width: 100px;
+  height: 40px;
+  background-color: #9b1515;
+  color: white;
+  border-radius: 5px;
+  border-color: #9b1515;
+  position: fixed;
+  bottom: 230px;
+  left: 303px;
+}
+
+.ButtonMoove:focus{
+  outline: none;
+}
+
+.ButtonAttack {
+    width: 100px;
+    height: 40px;
+    background-color: #9b1515;
+    color: white;
+    border-radius: 5px;
+    border-color: #9b1515;
+    position: fixed;
+    bottom: 230px;
+    left: 192px;
+  }
+.ButtonAttack:focus{
+  outline: none;
+}

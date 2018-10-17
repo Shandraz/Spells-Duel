@@ -1,0 +1,17 @@
+
+.ButtonNextPlayers{
+  width: 100px;
+  height: 40px;
+  background-color: #9b1515;
+  color: white;
+  border-radius: 5px;
+  border-color: #9b1515;
+  position: fixed;
+  bottom: 273px;
+  left: 750px;
+  z-index: 20;
+
+}
+.ButtonNextPlayers:focus{
+  outline: none;
+}

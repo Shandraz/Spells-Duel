@@ -1,0 +1,30 @@
+
+.App {
+  text-align: center;
+  cursor: url("http://www.rw-designer.com/cursor-extern.php?id=26747"), pointer;
+}
+
+
+
+
+.App-header {
+  background-color: #9b1515;
+  height: 50px;
+  padding: 20px;
+  color: white;
+  width: 860px;
+}
+
+.App-title {
+  font-size: 1.5em;
+  color: #FFD700;
+}
+
+
+.Menus{
+  background-color: #444242;
+  height: 900px;
+  color: white;
+  width: 900px;
+
+}
